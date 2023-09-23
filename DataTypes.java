@@ -8,6 +8,7 @@ public class DataTypes {
         short short_data=13;
         byte byte_data=1;
         Boolean boolean_data=false;
+        String str="Vipul";
 
         System.out.println("int data type : " + int_data);
         System.out.println(" double_data type : " + double_data);
@@ -17,5 +18,6 @@ public class DataTypes {
         System.out.println(" short_data type : " + short_data);
         System.out.println(" byte_data type : " + byte_data);
         System.out.println(" boolean_data type : " + boolean_data);
+        System.out.println(" str type : " + str);
     }
 }
